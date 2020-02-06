@@ -6,5 +6,5 @@ A currated list of green tech job resources.
 
 In alphabetical order:
 
-- [climage.careers](https://climate.careers/)
+- [climate.careers](https://climate.careers/)
 - [impactcoder.com](https://impactcoder.com/entwickler-jobs-mit-sinn.html)
