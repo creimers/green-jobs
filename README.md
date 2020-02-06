@@ -1,4 +1,4 @@
-# green jobs [![green](https://thirsty-act.surge.sh/badge.svg)](https://github.com/creimers/green)
+# green jobs [![green](https://furtive-hope.surge.sh/badge.svg)](https://github.com/creimers/green)
 
 A currated list of green tech job resources.
 
